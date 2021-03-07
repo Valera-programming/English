@@ -1,0 +1,30 @@
+{
+  "one_time": false,
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "Перевод"
+        },
+        "color": "positive"
+      },
+        
+      {
+        "action":{
+            "type":"text",
+            "label": "Правила"
+          },
+          "color": "positive"
+        },
+        
+        {
+        "action":{
+            "type":"text",
+            "label": "Правило английского языка"
+        },
+          "color": "positive"
+        }
+     ]
+   ]
+}
